@@ -27,8 +27,7 @@ public:
                         quad[1] = nums[j];
                         quad[2] = nums[left];
                         quad[3] = nums[right];
-                        //auto it = find(res.begin(), res.end(), quad);
-                        //if()
+                        
                         res.push_back(quad);
                                               
                         //processing duplicaes
