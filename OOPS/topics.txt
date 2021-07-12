@@ -1,0 +1,27 @@
+
+------Mandatory------
+1. pointers
+2. macros
+3. thread management            mutex vs semaphore
+4. functions
+
+------RDBMS------
+Basic SQL Queries
+
+------OOPS------
+
+------REST API------
+
+------Python as scripting language------
+
+------GIT------
+
+apply and bind diff in JS
+
+height of a tree
+
+https://www.naukri.com/learning/articles/top-25-cisco-interview-questions-answers/
+
+https://www.wisdomjobs.com/e-university/5g-interview-questions.html
+
+https://www.wisdomjobs.com/e-university/4g-interview-questions.html
