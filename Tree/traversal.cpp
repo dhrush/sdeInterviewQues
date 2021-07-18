@@ -37,6 +37,18 @@ void printPreOrder(Node *root)
     printPreOrder(root->right);
 }
 
+void printPostOrder(Node *root)
+{
+    if (root == NULL)
+        return;
+
+    printPostOrder(root->left);
+
+    printPostOrder(root->right);
+
+    cout << root->getData() << " ";
+}
+
 int main()
 {
     Node *a = new Node(30);
@@ -57,6 +69,7 @@ int main()
     c->right = g;
 
     //printInorder(a);
-    printPreOrder(a);
+    //printPreOrder(a);
+    printPostOrder(a);
     return 0;
 }
